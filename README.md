@@ -55,11 +55,12 @@ Autenticação: JSON Web Token (JWT), bcrypt.
 Infraestrutura: Docker, Docker Compose.
 
 ## Configuração do Projeto
-Pré-requisitos
+# Pré-requisitos
+
 Certifique-se de que você tem as ferramentas abaixo instaladas:
 
 Node.js (v14 ou superior)
 
 Docker e Docker Compose
 
-PostgreSQL configurado localmente ou em nuvem
+PostgreSQL configurado localmente ou em nuvem.
