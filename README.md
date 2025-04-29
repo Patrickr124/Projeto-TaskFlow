@@ -1,4 +1,4 @@
-### TaskFlow - Gerenciador de Tarefas 📝
+## TaskFlow - Gerenciador de Tarefas 📝
 # Descrição do Projeto
 O TaskFlow é uma aplicação web completa que permite aos usuários gerenciar tarefas diárias de forma eficaz. Com uma interface amigável e funcionalidades robustas, os usuários podem criar, editar, excluir e marcar tarefas como concluídas, garantindo produtividade e organização.
 
