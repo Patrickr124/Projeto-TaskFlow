@@ -21,7 +21,7 @@ Registro e login de usuários utilizando JWT.
 
 Senhas criptografadas com bcrypt.
 
-Banco de Dados Relacional:
+# Banco de Dados Relacional:
 
 Tabelas para armazenar tarefas e usuários, utilizando PostgreSQL.
 
